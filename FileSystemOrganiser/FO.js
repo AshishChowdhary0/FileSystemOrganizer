@@ -1,5 +1,3 @@
-//Adding comments for the first time.
-
 const helpModule = require('../commands/help');
 const organizeModule = require('../commands/organize');
 const treeModule = require('../commands/tree');
